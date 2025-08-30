@@ -1,3 +1,3 @@
 klik!! (mobile) is a clicker game that i'm not very proud of...
 
-desktop version: [link](https://github.com/zhmixx/klik-mobile)
+desktop version: [link](https://github.com/zhmixx/klik)
